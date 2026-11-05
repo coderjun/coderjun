@@ -6,14 +6,22 @@ Currently: consulting through Ajnunna Systems, Subject Matter Expert and committ
 
 ### Selected work
 
-**AI and agentic development**
+**Streaming and AI systems**
 
-- **[copilot-assigner-worker](https://github.com/coderjun/copilot-assigner-worker)**
-  Cloudflare Worker that assigns GitHub issues to the GitHub Copilot coding agent over OAuth, so GitHub Actions workflows can hand work to the agent. Personal access tokens and GitHub Apps cannot see the agent as an assignable actor; this closes that gap.
+- **[live-ad-decisioning-poc](https://github.com/coderjun/live-ad-decisioning-poc)**
+  Proof of concept for live streaming ad breaks under a hard time limit. Deterministic code handles cue timing and eligibility, a typed-decision model judges brand safety and contextual fit with calibrated confidence, and video generation runs only when those judgments clear and the break has time. Every decision is logged.
 - **[shaka-packager-mcp-server](https://github.com/coderjun/shaka-packager-mcp-server)**
   Model Context Protocol server exposing Shaka Packager to AI agents, so media packaging becomes something an agent can drive directly.
 - **[vse-cmcd-monitor](https://github.com/coderjun/vse-cmcd-monitor)**
   Streaming anomaly detection over Common Media Client Data, built in the open with the AI pair-programming session logs committed alongside the code.
+
+**Agentic development tooling**
+
+- **[ts-bumpers](https://github.com/coderjun/ts-bumpers)**
+  TypeScript starter for AI-agent development whose guardrails block rather than advise. Claude Code hooks, pre-commit checks, and CI enforce formatting, lint, types, tests, diagrams, and secret scanning, so neither an agent nor a person can skip them.
+- **[copilot-assigner-worker](https://github.com/coderjun/copilot-assigner-worker)**
+  Cloudflare Worker that assigns GitHub issues to the GitHub Copilot coding agent over OAuth, so GitHub Actions workflows can hand work to the agent. Personal access tokens and GitHub Apps cannot see the agent as an assignable actor; this closes that gap.
+
 
 ### What I write and teach
 
