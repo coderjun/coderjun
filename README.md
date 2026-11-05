@@ -1,6 +1,6 @@
 ## Jun Heider
 
-Solutions architect and systems builder. I design AI-enabled and media-workflow-focused systems and I work with the teams who operate them afterward.
+Engineering leader and systems builder. I have led streaming and video engineering organizations of 20 to 30 at Dolby and RealEyes, and I still design and build AI-enabled and media-workflow-focused systems myself.
 
 Currently: consulting through Ajnunna Systems, Subject Matter Expert and committee co-chair at the Streaming Video Technology Alliance (SVTA). Previously: Director of Media Streaming Solutions at Dolby Laboratories, CTO at RealEyes Media.
 
